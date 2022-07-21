@@ -1,0 +1,87 @@
+.App{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  display: flex;
+  overflow: auto;
+  overflow-wrap: normal;
+  grid-gap: 24px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap:24px;
+  margin: 24px;
+  
+ }
+ 
+ .movie-poster{
+   text-align: center;
+   display: flex;
+   break-after: auto;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+   box-sizing: border-box;
+   width: 400px;
+   align-items: center;
+   text-transform: capitalize;
+   max-width: fit-content;
+   overflow: auto;
+   overflow-wrap: normal;
+ }
+ 
+ .movie-name{
+   padding: 2%;
+   word-spacing: 2%;
+   display: flex;
+   align-items: center;
+   font-size: 24px;
+   margin: 8px 0;
+   font-weight: 600;
+ }
+ 
+ .movie-summary{
+   display: flex;
+   align-items: center;
+   display: flex;
+   flex-wrap: wrap;
+   text-align: left;
+   display: flex;
+   break-after: auto;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 20px;
+   padding-left: 20px;
+   box-sizing: border-box;
+   width: 400px;
+   align-items: center;
+   text-transform: capitalize;
+   max-width: fit-content;
+   overflow: auto;
+   overflow-wrap: normal;
+ 
+ }
+ .starrating:{
+   text-align: left;
+   font-size: 18px;
+   font-weight: 400;
+   display: block;
+   
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
